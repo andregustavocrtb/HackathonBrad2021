@@ -1,0 +1,23 @@
+.acoes{
+    display: flex;
+    padding-left: 25%;
+}
+.investimentos{
+    padding-left: 10%;
+    padding-top: 3%;
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.img{
+    border-radius: 50%;
+    border: 2px solid #6a6b69;
+}
+.dependente{
+    padding-top: 3%;
+    text-align: center;
+}
+
